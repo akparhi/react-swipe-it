@@ -1,6 +1,6 @@
 {
   "name": "react-swipe-it",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "binarylogician",
   "license": "MIT",
@@ -57,5 +57,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  }
 }
